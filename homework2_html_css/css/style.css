@@ -1,0 +1,96 @@
+/**Headers styles**/
+.headers{
+    font-family: Roboto;
+    font-size: 16pt;
+    text-align: center;
+}
+/** Div's styles **/
+.left-div{
+    float:left;
+    width: 33%;
+    padding-left: 10px;
+    padding-right: 10px
+}
+.middle-div{
+    float:left;
+    width: 30%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.right-div{
+    float:left;
+    width: 30%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.foot-left-btn{
+    margin-top: 20px;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 14pt;
+}
+.foot-right-btn{
+    margin-top: 40px;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 14pt;
+}
+.foot-middle-btn{
+    margin-top: 20px;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 14pt;
+}
+
+/**Other elements styles**/
+.screeps-logotype{
+    height:100%;
+    width:100%;
+    padding-bottom: 8px;
+    padding-top: 29px;
+}
+.katakoda-logotype{
+    height: 60%;
+    width: 100%;
+    text-align: center
+}
+.w3schools-logotype{
+    height: 40%;
+    width: 44%;
+    padding-left: 93px;
+    text-align: center;
+
+}
+.common-text{
+    text-align="justify"
+    font-family: Roboto;
+    font-size: 14pt;
+    letter-spacing: 0.27px;
+}
+.left-column_text{
+    margin-top: 12px;
+}
+
+.right-column-text{
+    margin-top: 12px;
+    text-align="justify"
+}
+
+.buttons{
+   padding-left: 30px;
+   padding-right: 30px;
+   border-radius: 22px;
+   background: #fb7323;
+   padding-top: 12px;
+   padding-bottom: 12px;
+   font-size: 15px;
+   color: #ffffff;
+   font-family: open-sans-semibold;
+   text-decoration: none;
+   text-align: center;
+}
+.buttons:hover{
+    color: #fff;
+    -webkit-box-shadow: 0.105px 2.998px 2px 0px rgba(120, 54, 2, 0.54);
+    box-shadow: 0.105px 2.998px 2px 0px rgba(120, 54, 2, 0.54);
+}
